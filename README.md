@@ -22,7 +22,7 @@ Aplicação fullstack simples de tarefas (ToDo) com frontend em React + Vite e b
 
 ## 🏁 Como rodar o projeto
 
-> Pré-requisitos: [Docker](https://www.docker.com/) e [Docker Compose](https://docs.docker.com/compose/) instalados.
+> Pré-requisitos: [Docker](https://www.docker.com/) instalado.
 
 ### ✅ Passo a passo
 
